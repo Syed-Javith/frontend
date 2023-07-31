@@ -1,0 +1,12 @@
+.reg-div{
+    background-color: rgb(17, 97, 73);
+    padding: 20px;
+}
+
+.form-control {
+    margin: 10px auto;
+}
+
+.reg-div h1,label{
+    color: white;
+}
